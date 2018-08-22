@@ -1,0 +1,30 @@
+h1 {font-family: 'Bree Serif', serif;
+text-align: center;}
+
+.header {
+  background-color: #DDEEFF;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+h2{font-family: 'Assistant', sans-serif;}
+
+.space-top {
+  margin: 32px;
+  width: 1050px;
+}
+
+.all-projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.project {
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  background-color: skyblue;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
