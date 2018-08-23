@@ -28,3 +28,15 @@ h2{font-family: 'Assistant', sans-serif;}
   background-size: cover;
   background-repeat: no-repeat;
 }
+.project-1 {
+  background-image: url("Portfolio-pics/instagram-photo.png");
+}
+.project-2 {
+  background-image: url("Portfolio-pics/simon-says.png");
+}
+.project-3 {
+  background-image: url("Portfolio-pics/computer-thinks.png")
+}
+.project-4 {
+  background-image: url("Portfolio-pics/whack-a-mole.png")
+}
