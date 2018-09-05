@@ -64,3 +64,21 @@ h2{font-family: 'Assistant', sans-serif;}
 .project:hover .title{
   transform: translateY(0%);
 }
+h2 {
+  font-family: 'Lobster', cursive;
+  color: gray;
+  font-size: 40px;
+
+}
+.about-me-pic {
+  float: right;
+  text-align: right;
+}
+
+.about-me {
+    margin-bottom: 35px;
+}
+
+ul {
+  list-style-type: square;
+}
