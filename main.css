@@ -92,3 +92,19 @@ form {
 text-align: center;
 padding-top: 20px;
 }
+
+.navbar-right {
+  justify-content: flex-end;
+  float: right;
+  font-size: 40px;
+  margin-right: 20px;
+  padding-top: 5px;
+}
+
+.navbar-left {
+  justify-content: flex-start;
+}
+
+.nav-content {
+  align-items: center;
+}
