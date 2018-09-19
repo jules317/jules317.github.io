@@ -82,3 +82,13 @@ h2 {
 ul {
   list-style-type: square;
 }
+
+form {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.submit-button{
+text-align: center;
+padding-top: 20px;
+}
